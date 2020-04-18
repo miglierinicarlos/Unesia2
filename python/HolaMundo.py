@@ -7,4 +7,5 @@ while (i<3):
 
 print("NO acpeto cambios de otro usarios")
 
+print("Esto debería ser uns fast-foward")
 
