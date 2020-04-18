@@ -8,7 +8,7 @@ while (i<3):
 print("modificando")
 
 if  (5>7):
-	print("Entro a la opcion verdadera")
+	print("Entro a la opcion 2 verdadera")
 else:	
 	print("Entro a la opcion falsa")
 
