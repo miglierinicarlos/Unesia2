@@ -1,1 +1,1 @@
-print("Usando python, como debe ser")
+print("NO acpeto cambios de otro usarios")
